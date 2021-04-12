@@ -6,12 +6,12 @@ node1:
   vm_name: ol7_121_dg1
   mem_size: 4096
   cpus: 2
-  public_ip: 192.168.56.101
+  public_ip: 192.168.178.121
   u01_disk: ./ol7_121_dg1_u01.vdi
 
 node2:
   vm_name: ol7_121_dg2
   mem_size: 4096
   cpus: 2
-  public_ip: 192.168.56.102
+  public_ip: 192.168.178.122
   u01_disk: ./ol7_121_dg2_u01.vdi
